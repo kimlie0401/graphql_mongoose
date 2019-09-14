@@ -15,6 +15,7 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.5",
     "graphql-tools": "^4.0.5",
+    "graphql-yoga": "^1.18.3",
     "mongoose": "^5.7.1",
     "saslprep": "^1.0.3"
   },

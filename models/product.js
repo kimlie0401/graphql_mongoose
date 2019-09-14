@@ -9,4 +9,5 @@ const ProductSchema = new Schema({
     type: Number
   }
 });
+mongoose.set("useFindAndModify", false);
 export default mongoose.model("product", ProductSchema);
